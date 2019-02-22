@@ -1,0 +1,7 @@
+c:\users\himcen\source\repos\Lab1-2-FunPlacesToGo\Lab1-2-FunPlacesToGo\bin\Debug\Lab1-2-FunPlacesToGo.exe.config
+c:\users\himcen\source\repos\Lab1-2-FunPlacesToGo\Lab1-2-FunPlacesToGo\bin\Debug\Lab1-2-FunPlacesToGo.exe
+c:\users\himcen\source\repos\Lab1-2-FunPlacesToGo\Lab1-2-FunPlacesToGo\bin\Debug\Lab1-2-FunPlacesToGo.pdb
+c:\users\himcen\source\repos\Lab1-2-FunPlacesToGo\Lab1-2-FunPlacesToGo\obj\Debug\Lab1-2-FunPlacesToGo.csprojAssemblyReference.cache
+c:\users\himcen\source\repos\Lab1-2-FunPlacesToGo\Lab1-2-FunPlacesToGo\obj\Debug\Lab1-2-FunPlacesToGo.csproj.CoreCompileInputs.cache
+c:\users\himcen\source\repos\Lab1-2-FunPlacesToGo\Lab1-2-FunPlacesToGo\obj\Debug\Lab1-2-FunPlacesToGo.exe
+c:\users\himcen\source\repos\Lab1-2-FunPlacesToGo\Lab1-2-FunPlacesToGo\obj\Debug\Lab1-2-FunPlacesToGo.pdb
